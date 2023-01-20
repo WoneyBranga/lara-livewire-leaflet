@@ -13,3 +13,4 @@ POC para validacao da manipulação de mapas atendendo os seguintes pontos:
     - Dado um ponto selecionado no mapa, consultar ponto de interesse mais próximo;
     - Calcular Distância[LINHA RETA] entre ponto selecionado e ponto de interesse mais proximo;
     - Calcular Distância[ROTA RODOVIARIA] entre ponto selecionado e ponto de interesse mais proximo;
+    - Permitir a consulta de um dado endereço;
