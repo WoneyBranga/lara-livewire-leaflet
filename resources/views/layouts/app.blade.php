@@ -18,6 +18,8 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <!-- Styles -->
+    <wireui:scripts />
+
     @livewireStyles
     @stack('styles')
 </head>
@@ -47,6 +49,7 @@
 
     @livewireScripts
     @stack('scripts')
+    @livewire('livewire-ui-modal')
 
 </body>
 

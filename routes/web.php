@@ -21,6 +21,9 @@ Route::get('/', function () {
 Route::get('/mapa', function () {
     return view('mapa');
 });
+Route::get('/consulta', function () {
+    return view('consulta');
+});
 Route::get('/teste', function () {
 
 
