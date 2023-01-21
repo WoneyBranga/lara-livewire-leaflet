@@ -83,7 +83,7 @@
                                   slate />
                         <div class="">
                             <div class="mt-4 flex flex-col items-start justify-items-start text-xs">
-                                <table class="w-full table-auto border-separate bg-white text-left text-xs">
+                                <table class="w-full table-auto border-separate bg-white text-left text-xs shadow">
                                     <tr class="odd:bg-gray-200 even:bg-gray-100 hover:bg-purple-100">
                                         <th>Latitude</th>
                                         <td>-22.345</td>
@@ -138,7 +138,7 @@
                                   slate />
                         <div class="">
                             <div class="mt-4 flex flex-col items-start justify-items-start text-xs">
-                                <table class="w-full table-auto border-separate bg-white text-left text-xs">
+                                <table class="w-full table-auto border-separate bg-white text-left text-xs shadow">
                                     <tr class="odd:bg-gray-200 even:bg-gray-100 hover:bg-purple-100">
                                         <th>Latitude</th>
                                         <td>-22.345</td>
@@ -182,7 +182,7 @@
                              id="mapa_topologia"></div>
 
                         <p class="font-bold">Dados Diversos Tabulados...</p>
-                        <table class="w-full table-auto border-separate bg-white text-left text-xs">
+                        <table class="w-full table-auto border-separate bg-white text-left text-xs shadow">
                             <thead class="bg-gray-300">
                                 <tr>
                                     <th></th>
